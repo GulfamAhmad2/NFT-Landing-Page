@@ -1,0 +1,42 @@
+# Front-end Style Guide
+
+## Layout
+
+The designs were created to the following widths:
+
+- Mobile: 375px
+- Desktop: 1440px
+
+## Colors
+
+### Neutral
+
+    --purple:#B982FF;
+    --puple-gradient: linear-gradient(52.09deg, #982DEC -11.18%, #DC8DF8 58.92%, #A9C4F3 98.44%);
+    --darkslategray:radial-gradient(74.11% 74.1% at 50% 0%, rgba(255, 255, 255, 0.2) 0%, rgba(255, 255, 255, 0.062) 100%);;
+    --black: #0B0B0F;
+    --black-12: #1a1b23;
+    --white: #fff;
+    --light-blue: #898CA9;
+    --light-black: rgba(42, 53, 71, 0.3);
+    --gradient: linear-gradient(225deg, #18C8FF 14.89%, #933FFE 85.85%);
+
+## Typography
+
+### Body Copy
+- Nav Links
+- Font size: 14px
+
+- Title
+- Font size:50px;
+
+
+
+### Font
+
+- Family: [Inter](https://fonts.googleapis.com/css2?family=Inter)
+- Family: [Urbanist](https://fonts.googleapis.com/css2?family=Urbanist)
+- Weights: 400
+- Weights: 600
+ 
+
